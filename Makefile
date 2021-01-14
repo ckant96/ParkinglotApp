@@ -10,7 +10,7 @@ LDFLAGS =
 # Makefile settings - Can be customized.
 APPNAME = ParkinglotApp
 EXT = .cpp
-SRCDIR = C:\Users\Chandrakant\Desktop\ParkingLotVa
+SRCDIR = C:\Users\Chandrakant\Desktop\ParkinglotApp
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
